@@ -1,0 +1,10 @@
+<ng-template #myTemplate>
+  <p>This is the content of the template.</p>
+</ng-template>
+
+<button (click)="showTemplate()">Show Template</button>
+
+<div *ngIf="isTemplateVisible; else myTemplate">
+  <p>Default content is visible.</p>
+</div>
+

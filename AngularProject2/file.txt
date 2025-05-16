@@ -1,0 +1,25 @@
+import { Component, ContentChild, AfterContentInit, ElementRef } from '@angular/core';
+
+@Component({
+  selector: 'app-child',
+  template: '<ng-content></ng-content>'
+})
+export class ChildComponent implements AfterContentInit {
+  @ContentChild('myElement') myElementRef: ElementRef;
+
+  ngAfterContentInit() {
+    if (this.myElementRef) {
+      this.myElementRef.nativeElement.style.color = 'red';
+    }
+  }
+}
+
+@Component({
+  selector: 'app-parent',
+  template: `
+    <app-child>
+      <p #myElement>This is projected content</p>
+    </app-child>
+  `
+})
+export class ParentComponent {}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Study\\angularjs\\sourcecode\\repository\\AngularProject2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55A4E213-8349-4A40-B645-20E2DFE68B83}|AngularProject2\\AngularProject2.esproj|g:\\study\\angularjs\\sourcecode\\repository\\angularproject2\\angularproject2\\src\\app\\ngtemplate-ex4\\ngtemplate-ex4.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55A4E213-8349-4A40-B645-20E2DFE68B83}|AngularProject2\\AngularProject2.esproj|solutionrelative:angularproject2\\src\\app\\ngtemplate-ex4\\ngtemplate-ex4.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A4E213-8349-4A40-B645-20E2DFE68B83}|AngularProject2\\AngularProject2.esproj|g:\\study\\angularjs\\sourcecode\\repository\\angularproject2\\angularproject2\\src\\app\\ngtemplate-ex3\\ngtemplate-ex3.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55A4E213-8349-4A40-B645-20E2DFE68B83}|AngularProject2\\AngularProject2.esproj|solutionrelative:angularproject2\\src\\app\\ngtemplate-ex3\\ngtemplate-ex3.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ngtemplate-ex4.component.html",
+              "DocumentMoniker": "G:\\Study\\angularjs\\sourcecode\\repository\\AngularProject2\\AngularProject2\\src\\app\\ngtemplate-ex4\\ngtemplate-ex4.component.html",
+              "RelativeDocumentMoniker": "AngularProject2\\src\\app\\ngtemplate-ex4\\ngtemplate-ex4.component.html",
+              "ToolTip": "G:\\Study\\angularjs\\sourcecode\\repository\\AngularProject2\\AngularProject2\\src\\app\\ngtemplate-ex4\\ngtemplate-ex4.component.html",
+              "RelativeToolTip": "AngularProject2\\src\\app\\ngtemplate-ex4\\ngtemplate-ex4.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T04:29:15.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ngtemplate-ex3.component.html",
+              "DocumentMoniker": "G:\\Study\\angularjs\\sourcecode\\repository\\AngularProject2\\AngularProject2\\src\\app\\ngtemplate-ex3\\ngtemplate-ex3.component.html",
+              "RelativeDocumentMoniker": "AngularProject2\\src\\app\\ngtemplate-ex3\\ngtemplate-ex3.component.html",
+              "ToolTip": "G:\\Study\\angularjs\\sourcecode\\repository\\AngularProject2\\AngularProject2\\src\\app\\ngtemplate-ex3\\ngtemplate-ex3.component.html",
+              "RelativeToolTip": "AngularProject2\\src\\app\\ngtemplate-ex3\\ngtemplate-ex3.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T04:28:52.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
